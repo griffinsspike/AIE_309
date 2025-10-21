@@ -162,12 +162,12 @@ Below are quick visual examples comparing inputs and outputs.
 ### Single example (original vs enhanced)
 | Original (before) | Enhanced (after) |
 | --- | --- |
-| ![](../data/images/00804v.jpg) | ![](../results/00804v_enhanced.jpg) |
+| ![](data/images/00804v.jpg) | ![](results/00804v_enhanced.jpg) |
 
 ### Full pipeline example (unaligned → aligned → enhanced)
 | Unaligned | Aligned | Enhanced |
 | --- | --- | --- |
-| ![](../results/00804v_unaligned.jpg) | ![](../results/00804v_aligned.jpg) | ![](../results/00804v_enhanced.jpg) |
+| ![](results/00804v_unaligned.jpg) | ![](results/00804v_aligned.jpg) | ![](results/00804v_enhanced.jpg) |
 
 ## Notes
 - Ensure the `data/images` directory exists and contains valid `.jpg` images.
@@ -175,3 +175,4 @@ Below are quick visual examples comparing inputs and outputs.
 
 ## License
 This project is licensed under the MIT License.
+

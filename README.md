@@ -172,7 +172,3 @@ Below are quick visual examples comparing inputs and outputs.
 ## Notes
 - Ensure the `data/images` directory exists and contains valid `.jpg` images.
 - The `results` directory will be created automatically if it does not exist.
-
-## License
-This project is licensed under the MIT License.
-
